@@ -4,12 +4,12 @@
 
 Summary:	Kiriki
 Name:		kde4-%{orgname}
-Version:	4.12.1
+Version:	4.12.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	a5b926bff94392ebc259563531e586bf
+# Source0-md5:	eafe669d414d1b3374c7494f1aeb4ace
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
